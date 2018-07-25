@@ -10,8 +10,8 @@ Pretty much everything works (running from the live ISO) except open issues belo
 I have **not** yet blown away Android 5.1 and Windows 10 and **installed** Linux on the Chuwi Hi12. I plan to do that **after** all the accelerometer issue is fixed.
 
 ### Open issues
-- Accelerometer senses the position wrong and the screen appears upside down when using it in landscape mode. Sensing is correct in portrait mode
-- Audio out **only** on headphones, not speakers. This model uses the ES8316 driver
+- [Issue 1: Audio out **only** on headphones, not speakers](https://github.com/sundarnagarajan/chuwi-hi12-linux/issues/1). This model uses the ES8316 driver
+- [Issue 2: Accelerometer senses the position wrong and the screen appears upside down in landscape mode](https://github.com/sundarnagarajan/chuwi-hi12-linux/issues/2). Sensing is correct in portrait mode
 
 ## Terminology and short hand
 Throughout this repository and in issues and issue responses, I will often use several terms. I define these common terms more clearly in [docs/terminology.md](/docs/terminology.md)
