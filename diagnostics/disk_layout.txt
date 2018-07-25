@@ -1,0 +1,39 @@
+
+Model: MMC DF4064 (sd/mmc)
+Disk /dev/mmcblk0: 62.5GB
+Sector size (logical/physical): 512B/512B
+Partition Table: gpt
+Disk Flags:Disk /dev/mmcblk0: 122142720 sectors, 58.2 GiB
+Sector size (logical/physical): 512/512 bytes
+Disk identifier (GUID): D52C1F78-8026-11E6-89EE-806E6F6E6963
+Partition table holds up to 128 entries
+Main partition table begins at sector 2 and ends at sector 33
+First usable sector is 34, last usable sector is 122142686
+Partitions will be aligned on 2048-sector boundaries
+Total free space is 4029 sectors (2.0 MiB)
+Removable: False
+Disk Model-Rev: DF4064 0x94b48601 0x3230323034322020
+
+Num Start        End          Size    Code Name             FS          Path
+  1 2048         206847       105MB   EF00 android_bootloader vfat        /dev/mmcblk0p1
+  2 206848       411647       105MB   0700 android_bootloader2             /dev/mmcblk0p2
+  3 411648       473087       31.5MB  A002 android_boot                 /dev/mmcblk0p3
+  4 473088       534527       31.5MB  A003 android_recovery             /dev/mmcblk0p4
+  5 534528       536575       1049kB  A004 android_misc                 /dev/mmcblk0p5
+  6 536576       569343       16.8MB  A005 android_metadata             /dev/mmcblk0p6
+  7 569344       5812223      2684MB  8300 android_system   ext4        /dev/mmcblk0p7
+  8 5812224      6336511      268MB   8300 android_cache    ext4        /dev/mmcblk0p8
+  9 6336512      27308031     10.7GB  8300 android_data     ext4        /dev/mmcblk0p9
+ 10 27308032     27310079     1049kB  8300 android_persistent             /dev/mmcblk0p10
+ 11 27310080     27326463     8389kB  8300 android_config   ext4        /dev/mmcblk0p11
+ 12 27326464     27531263     105MB   EF00 EFI system partition vfat        /dev/mmcblk0p12
+ 13 27531264     27564031     16.8MB  0C01 Microsoft reserved ...             /dev/mmcblk0p13
+ 14 27564032     120092671    47.4GB  0700 Basic data partition ntfs        /dev/mmcblk0p14
+ 15 120092672    122140671    1049MB  2700 Basic data partition ntfs        /dev/mmcblk0p15
+
+
+
+Notes:
+- Windows boots using EFI partition 12
+- Android boots using EFI partition 1
+See chuwi-hi12-efibootmgr-v.txt
