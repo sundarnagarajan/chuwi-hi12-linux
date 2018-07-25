@@ -1,0 +1,11 @@
+BootCurrent: 0002
+Timeout: 1 seconds
+BootOrder: 0002,0001,0000
+Boot0000* Windows Boot Manager	HD(12,GPT,2f56ef41-d7e8-4afe-aec1-73b570b36f7f,0x1a0f800,0x32000)/File(\EFI\MICROSOFT\BOOT\BOOTMGFW.EFI)WINDOWS.........x...B.C.D.O.B.J.E.C.T.=.{.9.d.e.a.8.6.2.c.-.5.c.d.d.-.4.e.7.0.-.a.c.c.1.-.f.3.2.b.3.4.4.d.4.7.9.5.}....................
+Boot0001* Android-IA	HD(1,GPT,2568845d-2332-4675-bc39-8fa5a4748d15,0x800,0x32000)/File(\EFI\BOOT\BOOTX64.EFI)
+Boot0002* UEFI: SanDisk Cruzer Blade 1.26, Partition 1	PciRoot(0x0)/Pci(0x14,0x0)/USB(2,0)/HD(1,MBR,0x13f75efd,0x1e8,0x17ba)..BO
+
+
+Notes:
+- Windows boots using EFI partition 12
+- Android boots using EFI partition 1
