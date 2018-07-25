@@ -16,3 +16,6 @@ Avoid removing a link - just add new links (with an informative description) to 
 12. [Sensor orientation](https://docs.microsoft.com/en-us/windows/uwp/devices-sensors/sensor-orientation) on docs.miccrosoft.com
 13. [HowTo correct the screen orientation detection issue with Chuwi HI13 on Linux – Fedora 26](https://www.aixin.fr/jipeblog/?p=119)
 14. [Google search for 'ACCEL_MOUNT_MATRIX HOWTO'](https://www.google.com/search?q=ACCEL_MOUNT_MATRIX+HOWTO)
+15. [Chuwi Hi12 teardown](https://techtablets.com/2016/02/first-look-at-chuwi-hi12-internals-from-tear-down/) - keyboard only
+16. [Chuwi Hi12 review on ZDNet](https://www.zdnet.com/product/chuwi-hi12-12-inch-tablet/) - not related to Linux on the Chuwi Hi12
+17. [Chuwi Hi12 teardown](https://www.zdnet.com/product/chuwi-hi12-12-inch-tablet/) - youtube video
