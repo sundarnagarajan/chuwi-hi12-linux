@@ -5,7 +5,7 @@ Linux on the Chuwi Hi12 12-inch convertible laptop
 
 The device can boot Linux from the pre-created remastered Ubuntu 16.04 and 18.04 ISO on my  [rdp-thinbook-linux](https://github.com/sundarnagarajan/rdp-thinbook-linux) repository.
 
-Pretty much everything works (running form live ISO) except open issues below.
+Pretty much everything works (running from the live ISO) except open issues below.
 
 I have **not** yet blown away Android 5.1 and Windows 10 and **installed** Linux on the Chuwi Hi12. I plan to do that **after** all the accelerometer issue is fixed.
 
