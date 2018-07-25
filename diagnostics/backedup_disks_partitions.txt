@@ -1,0 +1,24 @@
+┌Disks────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│Dev     Brand    Model             Serial               Firmware RM Size   Table Grub Part Temp Con  H:C:T:L │
+├─────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│sdd     SanDisk  Ultra Fit         4C530001250417123155 1.00     Y  115.7G gpt   N    15   -    usb  16:0:0:0│
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌Partitions────────────────────────────────────────────────────────────────────────────────────────┐
+│PN Dev       Size   Usage      FS          Mnt Label     GPT_Label                    VG          │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│1  sdd1      100M   filesystem vfat        N   ANDROIDIA android_bootloader           -           │
+│2  sdd2      100M                          N   -         android_bootloader2          -           │
+│3  sdd3      30M                           N   -         android_boot                 -           │
+│4  sdd4      30M                           N   -         android_recovery             -           │
+│5  sdd5      1M                            N   -         android_misc                 -           │
+│6  sdd6      16M                           N   -         android_metadata             -           │
+│7  sdd7      2.5G   filesystem ext4        N             android_system               -           │
+│8  sdd8      256M   filesystem ext4        N             android_cache                -           │
+│9  sdd9      10G    filesystem ext4        N             android_data                 -           │
+│10 sdd10     1M                            N   -         android_persistent           -           │
+│11 sdd11     8M     filesystem ext4        N             android_config               -           │
+│12 sdd12     100M   filesystem vfat        Y   SYSTEM    EFI system partition         -           │
+│13 sdd13     16M                           N   -         Microsoft reserved partition -           │
+│14 sdd14     44.1G  filesystem ntfs        N   Windows   Basic data partition         -           │
+│15 sdd15     1000M  filesystem ntfs        N   Recovery  Basic data partition         -           │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
