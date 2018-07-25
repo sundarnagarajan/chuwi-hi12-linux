@@ -26,6 +26,14 @@ Raise an issue on github. See the [FAQ](/docs/faq.md) for more details
 ## About the Chuwi Hi12 touchscreen convertible laptop
 
 ### Links - these worked as of Jul-25-2018
+- [ Product page (chuwi.com)](http://en.chuwi.com/product/items/Chuwi-Hi12.html)
+- [Specs from chuwi.com - click on Specifications on top left](http://en.chuwi.com/product/items/Chuwi-Hi12.html)
+- [Buy on Amazon.com](https://www.amazon.com/Hi12-Windows-Android-Processor-Capacity/dp/B01CY8IALG) - not available as of Jul-25-2018
+- [Buy on Aliexpress.com](https://www.aliexpress.com/store/product/12-inch-Tablet-PC-CHUWI-Hi12-Windows-10-4GB-RAM-DDR3-Intel-Z8300-64GB-ROM-Wifi/2179113_32637169391.html)
+- [ Buy on Banggood.com](http://www.banggood.com/Chuwi-Hi12-Intel-Z8300-Quad-Core-1_84GHz-12-Inch-Dual-Boot-Tablet-p-1044181.html)
+- [Search and buy on geekbuying.com](https://www.geekbuying.com/search?keyword=chuwi-hi12)
+- [Buy on gearbest.com](https://www.gearbest.com/tablet-pcs/pp_289082.html)
+- [Google search for 'buy Chuwi Hi12 laptop'](https://www.google.com/search?q=buy+chuwi+hi12&oq=buy+Chuwi+Hi12)
 
 ### Specs - copied from specs link above
 
